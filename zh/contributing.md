@@ -101,3 +101,4 @@
 - [优软科技](http://www.usoftchina.com)
 - [瓜子二手车](https://www.guazi.com)
 - [58](http://www.58.com)
+- [方正证券](http://www.foundersc.com)
